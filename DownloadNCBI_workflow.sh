@@ -8,7 +8,8 @@
 # 0 # Create a working directory of your choice to download data
 # e.g. /home/NCBIdata
 cd ~
-makedir NCBIdata
+mkdir NCBIdata
+cd NCBIdata
 
 # 00 # If you have no conda environment for this project I reccomend
 # creating one by running the next two lines.
