@@ -1,8 +1,8 @@
 ### This pipeline allows to download NCBI COI sequences
 # from Semelidae family (saltwater clams).
 # Can be adapted for any taxon
-#### By Nico Lois for OBIS-VLIZ job interview
-# adapted from NCBI Entrez Utilities
+
+#### By Nico Lois adapted from NCBI Entrez Utilities
 # https://www.ncbi.nlm.nih.gov/books/NBK25501/
 
 # 0 # Create a working directory of your choice to download data
